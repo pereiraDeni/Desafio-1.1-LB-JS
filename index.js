@@ -15,13 +15,9 @@ const gender = 'F'
 const age = 48
 const timeContribution = 23
 
-if(gender == 'F'){
-    if(((timeContribution+age) > 85) && (timeContribution > 30)) {
+if(gender == 'F' && ((timeContribution+age) > 85) && (timeContribution > 30)) {
       console.log(`${name} você pode se aposentar`)  
     } else console.log(`${name2} você não pode se aposentar`)
-}
-if(gender == 'M') {
-    if(((timeContribution+age) > 95) && (timeContribution > 35)) {
+if(gender == 'M' && ((timeContribution+age) > 95) && (timeContribution > 35)) {
     console.log(`${name2} você pode se aposentar`)
-}else console.log(`${name2} você não pode se aposentar`)
-}
+} else console.log(`${name2} você não pode se aposentar`)
