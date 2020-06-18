@@ -34,15 +34,16 @@
 - [Aplicação: Operações bancárias](desafios/01-4-aplicacao-operacoes-bancarias.md)
 
 ## :Descrição dos Desafios: 
-Primeiros Passos task 01 & 02:
-  Task 01:
-    Crie um programa para calcular o IMC e nível de obesidade de uma pessoa.
-    peso / (altura * altura);
-  Task 02:
-    Crie um programa para calcular a aposentadoria de uma pessoa.
-    O tempo de contribuição mínimo para homens é de 35 anos e, para mulheres, 30 anos;
-    Utilizando a regra 85-95, a soma da idade com o tempo de contribuição do homem precisa ser de no mínimo 95 anos, enquanto a mulher precisa ter no mínimo 85 anos na soma;
-
+<h1>Primeiros Passos task 01 & 02:</h1>
+    <h2>Task 01:</h2>
+        - Crie um programa para calcular o IMC e nível de obesidade de uma pessoa.
+        - peso / (altura * altura);
+    <h2>Task 02:</h2>
+        - Crie um programa para calcular a aposentadoria de uma pessoa.
+        - O tempo de contribuição mínimo para homens é de 35 anos e, para mulheres, 30 anos;
+        - Utilizando a regra 85-95, a soma da idade com o tempo de contribuição do homem precisa
+        - precisa ser de no mínimo 95 anos, enquanto a mulher precisa ter no mínimo 85 anos.
+        
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
